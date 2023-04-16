@@ -1,6 +1,8 @@
 # Constraints
 
-> In order to maintain control and ensure the success of our project, we have established several constraints that will guide our efforts. These constraints are as follows:
+> In order to maintain control and ensure the success of our project, we have
+> established several constraints that will guide our efforts. These constraints
+> are as follows:
 
 ## External
 
@@ -10,7 +12,8 @@
 
 ### UI Design or Color Schemes
 
-> Website success relies on appealing design and color schemes that meet objectives and target audience expectations
+> Website success relies on appealing design and color schemes that meet
+> objectives and target audience expectations
 
 ### technologies
 
@@ -18,13 +21,15 @@
 
 ## Internal: Involuntary
 
->  Time availability 
+> Time availability
 
 ## Internal: Voluntary
 
 ### Coding Style & Conventions
 
->  We agreed on coding style and conventions for consistency and better code readability.
+> We agreed on coding style and conventions for consistency and better code
+> readability.
 
 ### Code Review Checklist
+
 > checks will be used for a pull and all of them need to pass.
