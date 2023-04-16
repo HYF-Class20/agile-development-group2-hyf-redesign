@@ -1,30 +1,30 @@
 # Constraints
 
-Some boundaries around our project.
+> In order to maintain control and ensure the success of our project, we have established several constraints that will guide our efforts. These constraints are as follows:
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+### Project deadlines
+
+> All task assigned to a team member will have a specific deadlines of 1 day
+
+### UI Design or Color Schemes
+
+> Website success relies on appealing design and color schemes that meet objectives and target audience expectations
+
+### technologies
+
+> HTML, CSS
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+>  Time availability 
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+### Coding Style & Conventions
+
+>  We agreed on coding style and conventions for consistency and better code readability.
+
+### Code Review Checklist
+> checks will be used for a pull and all of them need to pass.
