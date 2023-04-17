@@ -2,25 +2,33 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Try to be friendly with each other
+- Try to work hard and do your task on time
+- Team works always lead
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day | How  | The topic of discussion                            |
+| --- | :--: | -------------------------------------------------- |
+| sun | zoom | Readme.md, Communication, constraint, user peroson |
+| Mon | zoom | backlog,wireframe, design                          |
+| Tue | zoom | retrospective, code                                |
+| Wed | zoom | code same                                          |
+| Thr | zoom | pages of code                                      |
+| fri | zoom | revision of code and explainig to everyone         |
+| sat | zoom | overview of planning and code                      |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: you need to create an issue first
+- **Pull Requests**: Try to connect your issue with PR
+- **GitHub Discussions** barely
+- **Slack/Discord**: slack
+- **Video Calls**: zoom
 
 ---
 
@@ -30,15 +38,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Emran  |  1 - 5  |  3 - 6  |   5 - 9   |  3 - 6   |  5 - 9  |  1 - 5   | 13 - 20 |
+| Osei   |  1 - 5  | 13 - 20 |   3 - 6   | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Takang | 13 - 20 |  1 - 5  |  13 - 20  |  1 - 5   | 13 - 20 |  1 - 5   | 13 - 20 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Emran: 7h; extra comments?
+- Osei : 6h;
+- Takan: 5h;
 
 ## Asking for Help
 
