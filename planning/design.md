@@ -1,17 +1,9 @@
-# Design
+# Design 
 
-## Project's design overview
-
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
-
----
+This design is a nice overview of the page. It has a navigation bar,loge,icons and a pictorial views of the website
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+[link to wireframe](https://www.figma.com/file/N9g57AZ7netGac89Ewz1KV/Diagram--Hack-Your-Future?node-id=0-1&t=HPUs1HMCfup6eb2f-0)
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![wireframe](./img/wireframe.jpg)
