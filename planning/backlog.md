@@ -9,7 +9,8 @@ create your own!
 
 > Home Page
 
-- [ ] As a user, I want to see the logo of the page prominently displayed at the top of the webpage
+- [ ] As a user, I want to see the logo of the page prominently displayed at the
+      top of the webpage
 
   - There is a clear and prominent logo visible to the user upon first access.
 
@@ -31,9 +32,10 @@ create your own!
   welcoming atmosphere for the use
 
 - [ ] As a user, I want to see a clear and concise description of the webpage to
-  understand its purpose and goals
+      understand its purpose and goals
 
-- The webpage contain a clear and concise description, informing the user of its purpose and goals
+- The webpage contain a clear and concise description, informing the user of its
+  purpose and goals
 
 - [ ] As a user, I want to see the average number of students who have graduated
       from HYF prominently displayed to understand the organization's impact and
@@ -44,15 +46,16 @@ create your own!
 
 > Home Page
 
-- [ ] As a user I want a section on the webpage that displays the core values of the website
+- [ ] As a user I want a section on the webpage that displays the core values of
+      the website
 - This section should clearly describe the various perspectives that the website
   embodies and the fundamental principles and beliefs that it operates upon
 
 - [ ] As a user i want to see a section displaying success stories of the people
 
 - There is a clear and concise section highlighting the number of students who
-    have graduated from HYF, emphasizing the positive impact the organization
-    has had on their lives
+  have graduated from HYF, emphasizing the positive impact the organization has
+  had on their lives
 
 - [ ] As a user i want to see a logos of HYF's partners prominently
 - The logos indicates the organization's collaborations and affiliations
