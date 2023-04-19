@@ -1,6 +1,7 @@
-# Design 
+# Design
 
-This design is a nice overview of the page. It has a navigation bar,loge,icons and a pictorial views of the website
+This design is a nice overview of the page. It has a navigation bar,loge,icons
+and a pictorial views of the website
 
 ## Wireframe(s)
 
