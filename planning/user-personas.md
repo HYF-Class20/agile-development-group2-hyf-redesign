@@ -2,7 +2,7 @@
 
 <!-- a persona -->
 
-## High Seconday school student
+## College school student
 
 - **Bio**: `Yaseen` is a curious and ambitious student who wants to learn web
   development from scratch
