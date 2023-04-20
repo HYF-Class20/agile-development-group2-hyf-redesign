@@ -48,16 +48,44 @@ career.
       and what knowledge they gain from the organization that leads them to
       their current career path.
 
+## Success story: HTML
+
+- Create a few blocks containing brief profile & paragraph of a few alumni
+
+### Success story: CSS
+
+- Create a carousel and style the shifting of alumni profile block from left to
+  right and vice versa.
+
 ## Curriculum
 
 As a potential student, I would like to see the curriculum/syllabus/module that
 they offer in the program.
+
+### Curriculum: HTML
+
+- Create a clear title/narrative and button that can guide user to find the
+  program syllabus/curriculum.
+
+### Curriculum: CSS
+
+- Style the button and style the section with few icons next to the
+  title/narrative.
 
 ## Form
 
 As a user i want see apply button on the website.
 
 - [ ] There is an a apply button that leads users to the application from
+
+### Form: HTML
+
+- Have a div with apply button that can lead user to the application form.
+
+### Form: CSS
+
+- Change the background color of the div to make it appear as a box for the form
+  position it to the other side of navbar.
 
 ## Footer
 
@@ -67,3 +95,14 @@ able to ask questions and see any updates
 
 - [ ] Have a footer on all pages with contact infos, address and social medias
       and GitHub.
+
+## Footer:HTML
+
+- Link to a social media platform of HYF
+- Contact us info
+- The official address
+
+## Footer:CSS
+
+- Contact us info beside the address,
+- Link to a social media underneath of the address
