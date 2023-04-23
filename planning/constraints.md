@@ -10,7 +10,7 @@
 
 ### Project deadlines
 
-> All task assigned to a team member will have a specific deadlines of 1 day
+> All task assigned to a team member will have a specific deadlines of 1 week
 
 ---
 
